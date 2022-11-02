@@ -1,0 +1,2 @@
+# Parking-Lot-System
+Parking lot system is aimed to provide the sufficient and convenient parking system. Now a days it is very hard to find the availability of parking slots in highly rushed places like malls and cinema halls etc. This project allocates space for the vehicle to park based on the availability of the parking slots and manage the parking slot. Here database connection is used to store the records of the vehicle parkings. 
